@@ -1,1 +1,4 @@
 README
+
+jdk 11
+Intellij IDEA 2018.2.4
