@@ -27,7 +27,7 @@ public class CConsole
     {
         if(students.length > 0 && students[0] != null)
         {
-            System.out.println("=Diplay students and ratings=");
+            System.out.println("=Display students and ratings=");
             for(int i=0; i<Main.COUNT; i++)
             {
                 System.out.println(students[i].getName() + " : " + students[i].getRating());
